@@ -1,8 +1,39 @@
 # Homework-week-2
 
-## Acceptance Criteria
 
-Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+# Overview:
+
+The purpose of the assignment was using html and css to create a portfolio that satisfies a typical hiring manager’s needs
+
+
+# How to install
+
+- Clone the repository
+
+Git clone https://github.com/SusanSu123/Homework-week-2.git
+
+- Go to index.html
+
+- Open with your favarite browser
+
+
+
+# Implementatin Details:
+
+1. Using semantic HTML elements: header,section, aside, footer
+
+2. Utlise CSS functions
+
+
+
+
+
+# Screenshoot
+
+![Screenshoot](./Assets/images/screenshoot.png)
+
+
+
 
 ```
 GIVEN I need to sample a potential employee's previous work
@@ -21,9 +52,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
 
-## Mock-Up
 
-The following animation shows the web application's appearance and functionality:
-
-![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+![portfolio demo](./assets/Images/02-advanced-css-homework-demo.gif)
 
