@@ -24,6 +24,12 @@ Git clone https://github.com/SusanSu123/Homework-week-2.git
 
 2. Utlising multiple CSS functions to completed layput
 
+3. Click on Website link: goes to portfolio website
+
+4  Click on Git Hub link: goes to Git Hut repo
+
+5  Click on Cacualator image: goes to previous work page
+
 
 # Details
 
@@ -39,10 +45,6 @@ Git clone https://github.com/SusanSu123/Homework-week-2.git
 - WHEN you resize the page or view the site on various screens and devices
 -THEN you are presented with a responsive layout that adapts to your viewport
 
-
-
-# Final link
-https://susansu123.github.io/Homework-week-2/
 
 
 
