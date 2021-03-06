@@ -1,7 +1,7 @@
 # Homework-week-2
 
 
-# Overview:
+# Overview
 
 The purpose of the assignment was using html and css to create a portfolio that satisfies a typical hiring manager’s needs
 
@@ -18,20 +18,20 @@ Git clone https://github.com/SusanSu123/Homework-week-2.git
 
 
 
-# Implementatin Details:
+# Implementatin Details
 
 1. Using semantic HTML elements: header,section, nav bar, footer
 
 2. Utlising multiple CSS functions to completed layput
 
-3. Click on Website link: goes to portfolio website
+3. Click on Website link then goes to portfolio website
 
-4. Click on Git Hub link: goes to Git Hut repo
+4. Click on Git Hub link then goes to Git Hut repo
 
-5. Click on Cacualator image: goes to previous work page
+5. Click on Cacualator image then goes to previous work page
 
 
-# Details
+# The following conditions
 
 - This homework presented with the developer's information, work experiene and how to contact them
 - WHEN you click one of the links in the navigation
@@ -43,7 +43,7 @@ Git clone https://github.com/SusanSu123/Homework-week-2.git
 - WHEN you click on the images of the applications
 - THEN you are taken to that deployed application
 - WHEN you resize the page or view the site on various screens and devices
--THEN you are presented with a responsive layout that adapts to your viewport
+- THEN you are presented with a responsive layout that adapts to your viewport
 
 # Portfolio link: https://susansu123.github.io/Homework-week-2/.
 
