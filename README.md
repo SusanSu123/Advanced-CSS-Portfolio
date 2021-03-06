@@ -45,6 +45,6 @@ Git clone https://github.com/SusanSu123/Homework-week-2.git
 - WHEN you resize the page or view the site on various screens and devices
 -THEN you are presented with a responsive layout that adapts to your viewport
 
-
+#Portfolio link: https://susansu123.github.io/Homework-week-2/.
 
 
