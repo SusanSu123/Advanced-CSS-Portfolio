@@ -1,6 +1,3 @@
-# Homework-week-2
-
-
 # Overview
 
 The purpose of the assignment was using html and css to create a portfolio that satisfies a typical hiring manager’s needs
@@ -10,7 +7,7 @@ The purpose of the assignment was using html and css to create a portfolio that 
 
 - Clone the repository
 
-Git clone https://github.com/SusanSu123/Homework-week-2.git
+Git clone https://github.com/SusanSu123/Advanced-CSS-Portfolio.git
 
 - Go to index.html
 
