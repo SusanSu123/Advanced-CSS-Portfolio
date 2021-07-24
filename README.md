@@ -43,6 +43,6 @@ Git clone https://github.com/SusanSu123/Advanced-CSS-Portfolio.git
 - THEN you are presented with a responsive layout that adapts to your viewport
 
 # Portfolio link
-https://susansu123.github.io/Homework-week-2/
+https://susansu123.github.io/Advanced-CSS-Portfolio/
 
 
